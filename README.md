@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Displacement in Los Angeles
 
-You can use the [editor on GitHub](https://github.com/kmailychen/EnvDes152/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+For my mapping project, the subject matter I will be exploring is displacement and gentrification in the city of Los Angeles as a result of policing, surveillance, and criminalization. I want to make note that this topic differs from the original direction I was going in with this project: exploring displacement in the city of Los Angeles and its potential correlation with recent rezoning and development practices. I decided on this change partially due to more of a personal interest in the new topic of exploration, and partially in the challenge to acquire spatial data on recent zoning changes in the city.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will be analyzing and referring to already existing maps to support my dive into the intersection between community displacement and hyper-surveillance/policing of communities. One primary map is by the Urban Displacement Project and displays displacement typology, neighborhood segregation, historically redlined areas, renter vulnerability index, and prominence of resources (like hospitals, public housing, education, etc.), among other variables. This will be key in visually displaying the different parts of Los Angeles’ relationship with displacement and gentrification. I also think it will be interesting to be able to compare the amount of resource centers (ex. hospitals) in a neighborhood with the amount of policing agencies in the same general location. This will not only reveal the disparity in access to social needs some Los Angeles neighborhoods experience in comparison to others, but will also show how much the city chooses to invest in policing over social services (and especially which neighborhoods see bigger gaps in this dichotomy). With the ability to look at historically redlined areas, map viewers will be able to see the race/ethnic and income groups that are disproportionately impacted by resource disinvestment and hyper-surveillance. While this map is effective in showing displacement through multiple typologies, it feels seriously impersonal. There is no connection of the data or mapped visuals to real-life stories or individual experiences.
 
-### Markdown
+The next key map supporting this project was created by the Stop LAPD Spying Coalition as part of their community-based research report: “Automating Banishment”. On this map, there are several layers that each display a different sect of policing or surveillance. One layer that I will be utilizing is the mapping of “Anchor Points”. Anchor Points, or LASER zones, are targeted geographic areas of the city of Los Angeles by the LAPD, as locations considered “possibly being responsible for crime.” As a result of being iterated as an Anchor Point, these locations become subjected to more police criminalization. The Stop LAPD Spying Coalition confirmed that the Operation LASER these anchor points were denoted in was another policing campaign of racial profiling: “LAPD killed 21 people in 2016, the year Operation LASER expanded. Of these, we have identified six killings linked to LASER zones in just a short six month period in 2016. All of the men and boys killed were Black or Latino, four were shot in the back, four were teenagers, and two were under the age of 18”.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Another layer on the map I will be incorporating into my project is the mapping of PredPol hotspots (from the years 2015 and 2018). Predictive policing (under which Operation LASER and the denoted Anchor Points were developed) is data-driven strategies for profiling potential crime spots, using data from police-run surveillance programs. As one can assume, this data (and these data gathering methodologies) are extremely unethical, racially biased, and white supremacist. PredPol is one of these algorithmic policing programs and has generated a series of hotspots akin to the Anchor Points created through the LAPD’s Operation LASER. This map is an excellent tool for viewers to see where different points of criminalization throughout the city of Los Angeles are; however, despite Stop LAPD Spying Coalition’s own writings about how these hotspots contribute to housing displacement, no data on this displacement (or connections to housing displacement) is visually portrayed on the map. I believe this is an omission of visual data that could show how policing plays into displacement.
 
-```markdown
-Syntax highlighted code block
+I believe that an effective story map will be able to combine these layers of data in a digestible manner so as not to be visually overwhelming for the viewer, but allows people to see the relationship between policing and surveillance, and community disinvestment and displacement.
+Hopefully, I will be able to make the map interactive, so that viewers can toggle between the different layers of data, and then begin to see the patterns as they navigate around. I would also like to try to incorporate personal interviews, anecdotes, or stories to these locations somehow, as to bring the data back to the real people being seriously impacted and harmed by displacement and policing. Too often, data is portrayed in a way that I feel isolates the numbers from the actual experiences of people, and I want to counter that in this story map. As there is an extreme cultural disparity between who is being most impacted by these issues (and who is not), I think it is important to visually show cultural landscapes on this map. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmailychen/EnvDes152/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The reason I chose to explore the cross-section between these two issues (displacement and policing) is because I believe that any successful and meaningful social justice intervention requires an understanding that community and housing displacement is not merely a result of individuals, or even only the real estate state, but is backed, legitimized, and carried out by state militarization against poor people and people of color. While this map is not being created to claim that policing is the only source or reason for displacement, I do think the overlooking of policing in conversations about the housing crisis and gentrification needs to be remedied, and my story map is just one step in doing that.
